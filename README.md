@@ -34,17 +34,4 @@ O repositório inclui:
 - Testes e pequenas aplicações desenvolvidas durante o curso  
 - Estudos e práticas relacionadas à IA  
 
----
 
-## Estrutura do Repositório (Exemplo)
-
-```text
-senac-ai-tech-exercises/
-│
-├── exercises/
-│   ├── exercise-01/
-│   ├── exercise-02/
-│
-├── experiments/
-│
-└── README.md
